@@ -1,0 +1,25 @@
+body {
+  margin: 20px;
+	font-family: georgia;
+}
+
+.avatar {
+	width: 150px;
+	
+}
+
+.card {
+  width: 400px;
+	margin: 0 auto;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	text-align: left;
+	background: #b5179e;
+	color: #2b2839;
+	border-bottom: 5 groove black;
+}
+
+.border-blue {
+	border: 1px dotted blue;
+}
